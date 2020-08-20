@@ -16,5 +16,6 @@ public class Main {
         System.out.println(str1 == str2); //false
         System.out.println(str1 == str3); //true
 
+        System.out.println("666");
     }
 }
