@@ -1,7 +1,3 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
 
 /**
  * @author god-jiang
@@ -13,8 +9,10 @@ public class Main {
         String str2 = new String("god-jiang");
         String str3 = new String("god-jiang").intern();
 
-        System.out.println(str1 == str2); //false
-        System.out.println(str1 == str3); //true
+        //false
+        System.out.println(str1 == str2);
+        //true
+        System.out.println(str1 == str3);
 
         System.out.println("666");
     }
