@@ -18,3 +18,18 @@ CPU：i5-4210M
 
 PS：测试第一次从IDEA更新到github
 
+**2020/08/26 电脑从宏碁改成15款macbook pro13寸**
+
+电脑：15款macbook pro13寸
+
+CPU：2.7GHz Intel Core i5
+
+内存：8G
+
+图形卡：Intel Iris Graphics 6100 1536MB
+
+硬盘：256SSD
+
+编译器：IDEA2020.2
+
+
