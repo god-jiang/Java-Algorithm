@@ -22,6 +22,8 @@ PS：测试第一次从IDEA更新到github
 
 电脑：15款macbook pro13寸
 
+版本：macOS Mojave(10.14.5)
+
 CPU：2.7GHz Intel Core i5
 
 内存：8G
