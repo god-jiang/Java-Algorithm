@@ -5,7 +5,12 @@ package nowcoder;
  * @date 2020/3/23  14:31
  */
 public class Permutation {
-    //全排列
+    /**
+     * 全排列
+     * @param arr
+     * @param start
+     * @param len
+     */
     public static void perm(char[] arr, int start, int len) {
         if (start == len - 1) {
             for (int i = 0; i < len; i++) {
@@ -21,7 +26,12 @@ public class Permutation {
         }
     }
 
-    //交换两个数
+    /**
+     * 交换两个数
+     * @param arr
+     * @param i
+     * @param j
+     */
     public static void swap(char[] arr, int i, int j) {
         char temp = arr[i];
         arr[i] = arr[j];
@@ -29,7 +39,7 @@ public class Permutation {
     }
 
     public static void main(String[] args) {
-        char[] arr = "abc".toCharArray();
+        char[] arr = "123".toCharArray();
         perm(arr, 0, arr.length);
     }
 }
