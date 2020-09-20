@@ -7,7 +7,7 @@ import java.util.*;
  *
  * @author god-jiang
  */
-public class subsets {
+public class Subsets {
     List<List<Integer>> res = new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) {
