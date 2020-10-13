@@ -1,5 +1,7 @@
 package leetcode;
 
+import leetcode.struct.TreeNode;
+
 import java.util.*;
 
 /**
